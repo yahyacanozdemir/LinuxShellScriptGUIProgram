@@ -18,22 +18,36 @@
     <li>
       Geliştirme Ortamı
       <ul>
-        <li>Linux shell script</li>
+        <li>Linux Shell Script</li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+     Kullanılan Araçlar
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li>Nano Text Editor</li>
+        <li>Whiptail Library</li>
+        <li>Grep Command</li>
+        <li>Cat Command</li>
+        <li>Shell Functions</li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li>
+     Süreç
+      <ul>
+        <li>Başlangıç Tarihi : 14.01.2021</li>
+        <li>Bitiş Tarihi : 14.01.2021</li>
+        <li>Geliştirilmeye Harcanan Toplam Süre : 2.5 Saat </li>
+      </ul>
+    </li>
+    <li>
+     Geliştirici Bilgileri
+      <ul>
+        <li>Yahya Can Özdemir</li>
+        <li>Bursa Teknik Üniversitesi</li>
+      </ul>
+    </li>  
+    
+      
   </ol>
 </details>
 
