@@ -5,7 +5,7 @@
 
 ## Program Özellikleri 
 <ol>
-        <li><a href="###Veri Ekleme">Veri Ekleme </a></li>
+        <li><a href="###VeriEkleme">Veri Ekleme </a></li>
         <li><a href="###Veri Silme">Veri Silme</a></li>
         <li><a href="###Veri Arama">Veri Arama</a></li>
         <li><a href="###Veri Listeleme">Tüm Verileri Listeleme</a></li>
@@ -68,7 +68,7 @@
    
 
 ## Program Görselleri
-### Veri Ekleme
+### VeriEkleme
   
     İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye
     dönülmektedir. 
