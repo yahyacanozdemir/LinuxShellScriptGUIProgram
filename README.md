@@ -19,12 +19,11 @@
    <ul>
    <li>Program.sh dosyası doğrudan linux makineye kopyalandıktan sonra, programın bulunduğu dizinde `bash program.sh` komutu çalıştırılmadır.</li>
    <li>Bu başlıktaki Program.sh içeriği kopyalandıktan sonra bir linux makinenin konsol ekranında herhangi bir dizinde, sırasıyla 
-   <ol>
-   <li> cat > program.sh</li>
-   <li> mouse sağ click</li>
-   <li> ctrl + d</li>
-   <li> bash program.sh` işlemleri yapılmalıdır.</li>
-   </ol>
+  `cat > program.sh`
+  `mouse sağ click`
+  `ctrl + d`
+  `bash program.sh` işlemleri yapılmalıdır.
+ 
    
    </li>
    </ul>
