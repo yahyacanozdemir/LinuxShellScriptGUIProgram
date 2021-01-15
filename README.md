@@ -86,13 +86,13 @@
     Tüm verileri, veri tabanını silmek için veri girişi bölümüne "tum" ifadesi yazılıp OK butonuna 
     basılabilir.
     
-    Silinmek istenen veri, veri tabanında yok ise kullanıcı, uyarı mesajına ; veritabanında hiç veri yok ise 
-    kullanıcı veri ekleme ekranına yönlendirilmektedir. 
+    Silinmek istenen veri, veri tabanında yok ise kullanıcı, uyarı mesajına ; veritabanında hiç veri yok
+    ise kullanıcı veri ekleme ekranına yönlendirilmektedir. 
     
     Veri tabanından veri silme işlemi için Veri yazısı veri silme ekranında default olarak gelmektedir.
     
-    Veri silme sonuçlarını kolaylıkla kontrol edebilmek amacıyla kullanıcı veri silme işleminden sonra veri listeleme
-    işlemine yönlendirilmektedir
+    Veri silme sonuçlarını kolaylıkla kontrol edebilmek amacıyla kullanıcı veri silme işleminden sonra
+    veri listeleme işlemine yönlendirilmektedir
     
 ![verisil2](https://user-images.githubusercontent.com/43846778/104725819-a7870080-5743-11eb-969f-23ad032b6597.png)
 
@@ -115,8 +115,8 @@
 
 
 ### Program Sonlandırma
-    Programdan çıkış yapılma butonu tıklandığında "Emin misiniz" sorusu yöneltilmekte ve program bittiğinde konsolda
-    bilgilendirme mesajı gözükmektedir.
+    Programdan çıkış yapılma butonu tıklandığında "Emin misiniz" sorusu yöneltilmekte ve program bittiğinde 
+    konsolda bilgilendirme mesajı gözükmektedir.
 ![lastScreen](https://user-images.githubusercontent.com/43846778/104725829-b1106880-5743-11eb-8cdb-4c0593f1e614.png)
 
 
