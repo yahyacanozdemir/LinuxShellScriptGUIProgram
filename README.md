@@ -5,12 +5,37 @@
 
 ## Program Özellikleri 
 <ol>
-        <li><a href="### Veri Girişi">Veri Girişi </a></li>
+        <li><a href="### Veri Ekleme">Veri Ekleme </a></li>
+        <li><a href="### Veri Silme">Veri Silme</a></li>
         <li><a href="### Veri Arama">Veri Arama</a></li>
         <li><a href="### Veri Listeleme">Tüm Verileri Listeleme</a></li>
-        <li><a href="### Veri Silme">Veri Silme</a></li>
         <li><a href="#### Program Sonlandırma">Program Sonlandırma</a></li>
 </ol>
+
+  <details open="open">
+  <summary><h2 style="display: inline-block">Geliştirme Süreci</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">Proje Hakkında</a>
+      <ul>
+        <li><a href="#built-with">Shell script ile geliştirildi</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
 ## Program Kullanımı & Test
    Programı kullanmak & test etmek için Linux bir sanal makine ya da sunucuya ihtiyaç vardır. 
@@ -27,10 +52,6 @@
   `bash program.sh` işlemleri yapılmalıdır.
    
    
-## Geliştirme Süreci
-
-
-
 
 ## Program Görselleri
 ### Veri Ekleme
