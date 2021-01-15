@@ -19,8 +19,12 @@
 
 ## Program Görselleri
 ### Veri Ekleme
-    İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye dönülmektedir.
-    Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak gelmektedir.
+    <ul>
+    <li> İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye dönülmektedir. </li>
+    <li>  Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak gelmektedir. </li>
+    </ul>
+    
+   
 ![veriEkle](https://user-images.githubusercontent.com/43846778/104725815-a655d380-5743-11eb-9974-4b658715a709.png)
 
 ### Veri Girişi
