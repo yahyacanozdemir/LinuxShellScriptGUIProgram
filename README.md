@@ -16,9 +16,9 @@
   <summary><h2 style="display: inline-block">Geliştirme Süreci</h2></summary>
   <ol>
     <li>
-      <a href="#about-the-project">Proje Hakkında</a>
+      Geliştirme Ortamı
       <ul>
-        <li><a href="#built-with">Shell script ile geliştirildi</a></li>
+        <li>Linux shell script</li>
       </ul>
     </li>
     <li>
