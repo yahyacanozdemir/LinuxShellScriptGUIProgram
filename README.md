@@ -1,5 +1,5 @@
 # Linux Basic Database Program
-    Linux bash script ve whiptail kütüphanesi ile yazılan, basit veritabanı işlemleri yapan program.
+    Linux shell script ve whiptail kütüphanesi ile yazılan, basit veritabanı işlemleri yapan program.
     
 ![girisEkranlariEntery](https://user-images.githubusercontent.com/43846778/104724699-16fbf080-5742-11eb-97b2-911bc1aefeae.png)
 
