@@ -12,7 +12,7 @@
         <li><a href="#Program-Sonlandırma">Program Sonlandırma</a></li>
 </ol>
 
-  <details">
+  <details>
   <summary><h2 style="display: inline-block">Geliştirme Süreci</h2></summary>
   <ol>
     <li>
