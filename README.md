@@ -15,18 +15,16 @@
 ## Program Kullanımı & Test
    Programı kullanmak & test etmek için Linux bir sanal makine ya da sunucuya ihtiyaç vardır. 
 
-   Test
-   <ul>
-   <li>Program.sh dosyası doğrudan linux makineye kopyalandıktan sonra, programın bulunduğu dizinde `bash program.sh` komutu çalıştırılmadır.</li>
-   <li>Bu başlıktaki Program.sh içeriği kopyalandıktan sonra bir linux makinenin konsol ekranında herhangi bir dizinde, sırasıyla 
+   ### Test
+   Program.sh dosyası doğrudan linux makineye kopyalandıktan sonra, programın bulunduğu dizinde `bash program.sh` komutu çalıştırılmadır.
+   
+   VEYA
+   
+   Bu başlıktaki Program.sh içeriği kopyalandıktan sonra bir linux makinenin konsol ekranında herhangi bir dizinde, sırasıyla 
   `cat > program.sh`
   `mouse sağ click`
   `ctrl + d`
   `bash program.sh` işlemleri yapılmalıdır.
- 
-   
-   </li>
-   </ul>
    
    
    
