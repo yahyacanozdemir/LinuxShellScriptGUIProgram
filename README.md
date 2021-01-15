@@ -5,11 +5,11 @@
 
 ## Program Özellikleri 
 <ol>
-        <li><a href="### Veri Ekleme">Veri Girişi </a></li>
-        <li><a href="#installation">Veri Arama</a></li>
-        <li><a href="#installation">Tüm Verileri Listeleme</a></li>
-        <li><a href="#installation">Veri Silme</a></li>
-        <li><a href="#installation">Program Sonlandırma</a></li>
+        <li><a href="### Veri Girişi">Veri Girişi </a></li>
+        <li><a href="### Veri Arama">Veri Arama</a></li>
+        <li><a href="### Veri Listeleme">Tüm Verileri Listeleme</a></li>
+        <li><a href="### Veri Silme">Veri Silme</a></li>
+        <li><a href="#### Program Sonlandırma">Program Sonlandırma</a></li>
 </ol>
 
 ## Program Kullanımı & Test
@@ -27,12 +27,6 @@
   `bash program.sh` işlemleri yapılmalıdır.
    
    
-   
-   
-   
-   
-   
-   
 ## Geliştirme Süreci
 
 
@@ -41,14 +35,16 @@
 ## Program Görselleri
 ### Veri Ekleme
   
-    İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye dönülmektedir. 
-    Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak gelmektedir. 
-   
+    İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye
+    dönülmektedir. 
     
+    Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak 
+    gelmektedir. 
+   
    
 ![veriEkle](https://user-images.githubusercontent.com/43846778/104725815-a655d380-5743-11eb-9974-4b658715a709.png)
 
-### Veri Girişi
+### Veri Silme
     İstenilen veri yazıldıktan sonra OK butonu ile veri silme işlemi yapılmakta, Cancel butonu ile 
     ana menüye dönülmektedir.
     
@@ -58,7 +54,11 @@
     Silinmek istenen veri, veri tabanında yok ise kullanıcı, uyarı mesajına ; veritabanında hiç veri yok ise 
     kullanıcı veri ekleme ekranına yönlendirilmektedir. 
     
-    Veri tabanından veri silme işlemi için Veri yazısı veri silme ekranındaa default olarak gelmektedir.
+    Veri tabanından veri silme işlemi için Veri yazısı veri silme ekranında default olarak gelmektedir.
+    
+    Veri silme sonuçlarını kolaylıkla kontrol edebilmek amacıyla kullanıcı veri silme işleminden sonra veri listeleme
+    işlemine yönlendirilmektedir
+    
 ![verisil2](https://user-images.githubusercontent.com/43846778/104725819-a7870080-5743-11eb-969f-23ad032b6597.png)
 
 ### Veri Arama
@@ -77,6 +77,7 @@
     
     Veri gösterimi bittikten sonra kullanıcı OK butonu ile otamatik olarak ana menüye yönlendirilmektedir.
 ![veriListele](https://user-images.githubusercontent.com/43846778/104725828-ae157800-5743-11eb-99d3-27b756616ac5.png)
+
 
 ### Program Sonlandırma
     Programdan çıkış yapılma butonu tıklandığında "Emin misiniz" sorusu yöneltilmekte ve program bittiğinde konsolda
