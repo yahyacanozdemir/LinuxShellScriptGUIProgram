@@ -5,7 +5,7 @@
 
 ## Program Özellikleri 
 <ol>
-        <li><a href="###Veri Ekleme">Veri Girişi </a></li>
+        <li><a href="### Veri Ekleme">Veri Girişi </a></li>
         <li><a href="#installation">Veri Arama</a></li>
         <li><a href="#installation">Tüm Verileri Listeleme</a></li>
         <li><a href="#installation">Veri Silme</a></li>
@@ -23,7 +23,7 @@
     Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak gelmektedir.
 ![veriEkle](https://user-images.githubusercontent.com/43846778/104725815-a655d380-5743-11eb-9974-4b658715a709.png)
 
-### Veri Silme
+### Veri Girişi
     İstenilen veri yazıldıktan sonra OK butonu ile veri silme işlemi yapılmakta, Cancel butonu ile ana menüye dönülmektedir.
     Tüm verileri, veri tabanını silmek için veri girişi bölümüne "tum" ifadesi yazılıp OK butonuna basılabilir.
     Silinmek istenen veri, veri tabanında yok ise kullanıcı, uyarı mesajına ; veritabanında hiç veri yok ise kullanıcı veri ekleme ekranına yönlendirilmektedir. 
