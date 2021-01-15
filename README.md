@@ -5,11 +5,11 @@
 
 ## Program Özellikleri 
 <ol>
-        <li><a href="###Veri-Ekleme">Veri Ekleme </a></li>
-        <li><a href="###Veri-Silme">Veri Silme</a></li>
-        <li><a href="###Veri-Arama">Veri Arama</a></li>
-        <li><a href="###Veri-isteleme">Tüm Verileri Listeleme</a></li>
-        <li><a href="####Program-Sonlandırma">Program Sonlandırma</a></li>
+        <li><a href="#Veri-Ekleme">Veri Ekleme </a></li>
+        <li><a href="#Veri-Silme">Veri Silme</a></li>
+        <li><a href="#Veri-Arama">Veri Arama</a></li>
+        <li><a href="#Veri-isteleme">Tüm Verileri Listeleme</a></li>
+        <li><a href="#Program-Sonlandırma">Program Sonlandırma</a></li>
 </ol>
 
   <details open="open">
