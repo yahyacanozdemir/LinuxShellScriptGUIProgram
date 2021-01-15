@@ -5,7 +5,7 @@
 
 ## Program Özellikleri 
 <ol>
-        <li><a href="### Veri Girişi">Veri Girişi </a></li>
+        <li><a href="###Veri Girişi">Veri Girişi </a></li>
         <li><a href="#installation">Veri Arama</a></li>
         <li><a href="#installation">Tüm Verileri Listeleme</a></li>
         <li><a href="#installation">Veri Silme</a></li>
