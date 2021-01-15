@@ -68,7 +68,7 @@
    
 
 ## Program Görselleri
-### VeriEkleme
+###VeriEkleme
   
     İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye
     dönülmektedir. 
