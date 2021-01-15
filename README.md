@@ -12,6 +12,18 @@
         <li><a href="#installation">Program Sonlandırma</a></li>
 </ol>
 
+## Program Kullanımı & Test
+   Programı kullanmak & test etmek için Linux bir sanal makine ya da sunucuya ihtiyaç vardır. 
+
+   Test
+   Program.sh dosyası doğrudan linux makineye kopyalandıktan sonra, programın bulunduğu dizinde `bash program.sh` komutu çalıştırılmadır.
+   Bu başlıktaki Program.sh içeriği kopyalandıktan sonra bir linux makinenin konsol ekranında herhangi bir dizinde, sırasıyla 
+   `cat > program.sh`
+   `mouse sağ click`
+   `ctrl + d`
+   `bash program.sh` işlemleri yapılmalıdır.
+   
+   
 ## Geliştirme Süreci
 
 
@@ -19,10 +31,10 @@
 
 ## Program Görselleri
 ### Veri Ekleme
-    <ul>
-    <li> İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye dönülmektedir. </li>
-    <li>  Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak gelmektedir. </li>
-    </ul>
+  
+    İstenilen veri yazıldıktan sonra OK butonu ile veri girişi yapılmakta, Cancel butonu ile ana menüye dönülmektedir. 
+    Veri tabanına veri ekleme aşamasını test etmek amacıyla Veri1, Veri2... gibi girişler default olarak gelmektedir. 
+   
     
    
 ![veriEkle](https://user-images.githubusercontent.com/43846778/104725815-a655d380-5743-11eb-9974-4b658715a709.png)
